@@ -30,5 +30,3 @@ Visit: `http://localhost:3000`
 - Jenkins executes `deploy.sh` to deploy app.
 
 ---
-
-✅ App will be live at: `http://<your-ec2-public-ip>/`
